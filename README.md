@@ -11,3 +11,21 @@
 - [x] Ability to add overdraft protection to checking accounts
 - [x] Ability to overdraft with a fee applied
 - [x] Plus even more
+
+
+## How To Run
+- Open command prompt cd into the folder
+```bash
+~$ cd Desktop
+```
+- Open using a code editor such as vscode
+- Ensure java is installed and any other extentions you may need
+- Run the application everything should work so long as all requirements are met
+
+### Download or clone the code from github
+- Cloning Code:
+```bash
+~$ git clone https://github.com/Christopher-Staffieri/EasyBank
+```
+### Downloading the code:
+- Goto the main github page find the green button that says code click on it and download as zip once downloaded unzip it with winrar or 7zip and drag to desktop/prefered directory.
